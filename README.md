@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prath1409
 - 👀 I’m interested in coding and DSA problems and solving real life problems with technologies.
-- 🌱 I’m currently pursing in third year of Btech Degree in Walchand College of Engineering.
+- 🌱 I’m currently pursing in final year of Btech Degree in Walchand College of Engineering.
 - 💞️ I’m looking to collaborate in any tech company 
 
 <!---
